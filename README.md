@@ -5,10 +5,14 @@
 Este é o primeiro commit, logo pode ser efetuada 4 operações, sendo elas +,-,* e /.
 
 🤓Guia:
-+ = soma;
-- = subtrair;
-* = multiploicar;
-/ = divisão;
+
+.  + > soma
+
+. - > subtrair;
+
+. * > multiploicar;
+
+. / > divisão;
 
 Basta introduzir um dos sinais para
 realizar a operação com o valor inserido.
